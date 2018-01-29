@@ -1,13 +1,7 @@
 ee-hardware
 ===========
 
-
-Installation
-------------
-
-```
-$ pip install ee-hardware
-```
+Creates hardware.ini for [Empty Epsilon](https://github.com/daid/EmptyEpsilon) to use [McLighting](https://github.com/toblum/McLighting)-firmware.
 
 License
 -------
