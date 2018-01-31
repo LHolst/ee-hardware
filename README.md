@@ -1,7 +1,7 @@
 ee-hardware
 ===========
 
-Creates hardware.ini for [Empty Epsilon](https://github.com/daid/EmptyEpsilon) to use [McLighting](https://github.com/toblum/McLighting)-firmware.
+Creates hardware.ini for [Empty Epsilon](https://github.com/daid/EmptyEpsilon) to use [ESPixelStick](https://github.com/forkineye/ESPixelStick)-firmware.
 
 License
 -------
